@@ -11,4 +11,4 @@ New version out now! Latest version was done from scratch due to many missaligne
 Now with cutter ready paths! Edit the file and fit your image of choice instead of the one inside labeled "image" and send it to the press techs. Or print and cut yourself if you have those tools!
 
 Don't forget to hide the "background" group as its for alighnment and you dont want to print it.
-And hide cutting lines are for cutting and should be hidden for printing aswell. To cut it out remove the stroke from the lines and send it to your cutter
+And cutting lines are for cutting and should be hidden when printing aswell. To cut it out remove the stroke from the lines and send it to your cutter
